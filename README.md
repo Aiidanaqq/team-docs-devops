@@ -40,3 +40,7 @@
 2. Read README
 
 - Student1 — added team info
+
+## Полезные команды
+- git status
+- git log --oneline
