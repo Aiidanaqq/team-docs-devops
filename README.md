@@ -15,3 +15,5 @@
 ## Инструкции по запуску
 1. Clone repository
 2. Read README
+
+- Student1 — added team info
