@@ -1,15 +1,15 @@
 # Наш DevOps проект
 
 ## Описание проекта
-Учебный проект для изучения Git и GitHub.
+Учебный проект для практики Git/GitHub: ветки, PR, merge и конфликт.
 
 ## Команда
-Aidana — DevOps engineer
+- Owner: Aidana (DevOps)
 
 ## Стек технологий
-Docker
-Kubernetes
+- Git
+- GitHub
 
-## Инструкция запуска
+## Инструкции по запуску
 1. Clone repository
-2. Open README
+2. Read README
