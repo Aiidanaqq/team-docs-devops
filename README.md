@@ -7,6 +7,8 @@
 
 ## Команда
 - Owner: Aidana (DevOps)
+- Student1 - added team info
+- Main branch edit
 
 ## Стек технологий
 - Git
